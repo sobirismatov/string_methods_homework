@@ -7,5 +7,5 @@ def main(s):
         str: answer
     """
     
-    return s.lower()
+    return s.upper()
 print(main("Hello"))
